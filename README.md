@@ -19,19 +19,19 @@ This project focuses on analyzing customer shopping behavior using data analytic
 
 The dataset contains customer shopping-related information such as:
 
-Customer demographics
-Product categories
-Purchase amounts
-Payment methods
-Shopping frequency
-Ratings and preferences
-Tools & Technologies
-Python — Data Cleaning & EDA
-Pandas, NumPy, Matplotlib, Seaborn — Data Analysis & Visualization
-MySQL Server — SQL Querying
-Microsoft Power BI — Dashboard Development
-Gamma — Presentation Creation
-Steps Performed
+- Customer demographics
+- Product categories
+- Purchase amounts
+- Payment methods
+- Shopping frequency
+- Ratings and preferences
+- Tools & Technologies
+- Python — Data Cleaning & EDA
+- Pandas, NumPy, Matplotlib, Seaborn — Data Analysis & Visualization
+- MySQL Server — SQL Querying
+- Microsoft Power BI — Dashboard Development
+- Gamma — Presentation Creation
+## Steps Performed
 1. Data Loading
 Imported dataset into Python environment
 Checked data structure and data types
