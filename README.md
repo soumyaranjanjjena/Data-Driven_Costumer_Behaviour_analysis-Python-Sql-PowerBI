@@ -1,19 +1,21 @@
 # Data-Driven_Costumer_Behaviour_analysis-Python-Sql-PowerBI
 
 Customer Shopping Behavior Analysis
-Overview
+## Overview
 
 This project focuses on analyzing customer shopping behavior using data analytics techniques. The workflow includes data loading, cleaning, exploratory data analysis (EDA), SQL-based querying, dashboard creation, and reporting. The objective is to extract meaningful business insights from customer purchase data and present them through interactive visualizations and reports.
 
-Project Workflow
-Load and process dataset using Python
-Perform data cleaning and preprocessing
-Conduct Exploratory Data Analysis (EDA)
-Execute SQL queries using MySQL Server
-Build an interactive dashboard in Microsoft Power BI
-Create a project report
-Prepare presentation slides using Gamma
-Dataset
+## Project Workflow
+- Load and process dataset using Python
+- Perform data cleaning and preprocessing
+- Conduct Exploratory Data Analysis (EDA)
+- Execute SQL queries using MySQL Server
+- Build an interactive dashboard in Microsoft Power BI
+- Create a project report
+- Prepare presentation slides using Gamma
+
+
+## Dataset
 
 The dataset contains customer shopping-related information such as:
 
