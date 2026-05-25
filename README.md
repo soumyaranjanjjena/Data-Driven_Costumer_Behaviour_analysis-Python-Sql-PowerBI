@@ -60,10 +60,10 @@ Prepared a detailed project report
 Created presentation slides using Gamma
 Dashboard Insights
 
-Key insights generated from the analysis include:
+## Key insights generated from the analysis include:
 
-Top-performing product categories
-Customer spending behavior
-Sales trends over time
-Preferred payment methods
-Customer segmentation insights
+- Top-performing product categories
+- Customer spending behavior
+- Sales trends over time
+- Preferred payment methods
+- Customer segmentation insights
