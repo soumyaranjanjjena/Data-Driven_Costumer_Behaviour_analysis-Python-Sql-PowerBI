@@ -25,7 +25,8 @@ The dataset contains customer shopping-related information such as:
 - Payment methods
 - Shopping frequency
 - Ratings and preferences
-- Tools & Technologies
+
+## Tools & Technologies
 - Python — Data Cleaning & EDA
 - Pandas, NumPy, Matplotlib, Seaborn — Data Analysis & Visualization
 - MySQL Server — SQL Querying
